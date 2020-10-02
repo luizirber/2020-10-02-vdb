@@ -1,0 +1,9 @@
+name: vdb-py
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.7
+  - sra-tools=2.10.8
+  - ncbi-vdb-py=2.10.8
